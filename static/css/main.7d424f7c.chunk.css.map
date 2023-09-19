@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,IACE,WAAY,CACZ,YAAa","file":"main.7d424f7c.chunk.css","sourcesContent":["img {\n  width: 200px;\n  height: 200px;\n}\n"]}

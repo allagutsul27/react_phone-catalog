@@ -1,2 +1,0 @@
-(this["webpackJsonpreact_phone-catalog"]=this["webpackJsonpreact_phone-catalog"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(3),a=t.n(c),s=(t(1),t(8),t(0)),o=function(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"React Phone Catalog"}),Object(s.jsx)("img",{src:"/_new/img/banner-phones.png",alt:""})]})};a.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.47cf4911.chunk.js.map
